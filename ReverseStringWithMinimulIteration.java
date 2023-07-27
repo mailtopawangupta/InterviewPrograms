@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class ReverseStringWithMinimulIteration {
     public static void main(String[] args){
         String string = "pawangupta";
